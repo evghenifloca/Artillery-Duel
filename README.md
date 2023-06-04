@@ -30,12 +30,6 @@ Adjust the degree and power of your shots to hit the target accurately and elimi
 3. Build the project to compile the code.
 4. Run the compiled executable file to start the game.
 
-## Screenshots
-[Main Menu](https://ibb.co/yXk92Wr)
-[Screen 1](https://ibb.co/NTH2TcM)
-[Screen 2](https://ibb.co/9nhQF8g)
-[Screen 3](https://ibb.co/JR0hGr6)
-
 ## Video
 [![Video](https://img.youtube.com/vi/GZRP2TfiMOc/0.jpg)](https://www.youtube.com/watch?v=GZRP2TfiMOc)
 
